@@ -1,4 +1,4 @@
-# RobotFramework-Tests
+# RobotFrameworkTests
 
 Este repositório contém testes automatizados utilizando Robot Framework para o projeto EngSoftware.
 
@@ -16,5 +16,5 @@ Fornecer uma base para criar e executar testes automatizados usando Robot Framew
 1. **Clone o Repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/RobotFramework-EngSoftwareTests.git
-   cd RobotFramework-Tests
+   git clone https://github.com/seu-usuario/RobotFrameworkTests.git
+   cd RobotFrameworkTests
