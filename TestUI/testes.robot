@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation       Esta suite testa o site "Ex-Alunos Já Formei".
 
-Resource            recursos.robot
+Resource            ./amazon_testes.robot
 
 *** Test Cases ***
 Abrir o Navegador
